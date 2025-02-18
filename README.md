@@ -9,9 +9,13 @@ The goal of this project is to develop a model capable of interpreting different
 - Objectives
 
 Chart Format Identification: Classify the type of chart (e.g., bar, line, pie).
+
 Variable Extraction: Extract and interpret x-y axis variables.
+
 Trend Analysis: Analyze the trends indicated by the chart to determine if the feedback is positive or negative.
+
 Feedback Classification: Generate insights based on the visual data (e.g., if the chart conveys positive or negative business feedback).
+
 Evaluation: Evaluate different models manually or using AI Agent to evaluate each other’s output 
 
 - Motivation
@@ -20,6 +24,8 @@ The complexity and variety of data visualizations make them difficult for many i
 
 - Technologies Used and References
 
-Python: core programming language\n
-API: Open AI API\n
+Python: core programming language
+
+API: Open AI API
+
 Hugging Face: various models from https://huggingface.co
