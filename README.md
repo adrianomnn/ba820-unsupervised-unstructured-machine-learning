@@ -20,6 +20,6 @@ The complexity and variety of data visualizations make them difficult for many i
 
 - Technologies Used and References
 
-Python: core programming language
-API: Open AI API
+Python: core programming language\n
+API: Open AI API\n
 Hugging Face: various models from https://huggingface.co
